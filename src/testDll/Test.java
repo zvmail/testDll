@@ -4,6 +4,7 @@ import net.sf.jni4net.Bridge;
 
 import jcarddll.JcardInterface;
 
+//test aeon dll
 public class Test {
 	
 	public static void main(String[] args) throws Exception {
